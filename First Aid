@@ -1,2 +1,14 @@
-<h1>First Aid</h1>
-<p>I will be explaning real life first aid that can be easly preformed. From cuts and scrapes to punture wounds and burns, you will know how to react and respond to any real life scenario.</p>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>First Aid</h1>
+    <a href="Burns_2.html"> Burns </a>
+    <a href=index.html> Home </a>
+    <a href="Cuts.html"> Cuts</a>
+    <h2>Real Life First Aid</h2>
+    <p>I will be explaning real life first aid that can be easly preformed. From cuts and scrapes to punture wounds and burns, you will know how to react and respond to any real life scenario. <p>
+    <img src="firstaidsign.png" alt="First Aid Sign"/>
+    <p> Red Cross First Aid Icon by GDJ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rwrkjh6mcPV_ijcxIZHU75NtjvlPzXG1WQ&usqp=CAU</p>
+ </body>
+</html>
